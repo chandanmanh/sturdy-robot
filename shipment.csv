@@ -1,0 +1,2 @@
+shipmentId,origin,destination,status
+SHIP-CSV-001,Seattle,San Francisco,Delivered
